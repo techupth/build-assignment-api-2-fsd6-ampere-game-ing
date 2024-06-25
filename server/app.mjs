@@ -3,7 +3,7 @@ import connectionPool from "./utils/db.mjs";
 
 
 const app = express();
-const port = 4003;
+const port = 400;
 
 app.use(express.json());
 
